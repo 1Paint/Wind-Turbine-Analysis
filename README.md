@@ -18,7 +18,7 @@ Preview
 
 Requirements
 -------
-* [Python 2](https://www.python.org/downloads/)
+* [Python 2.7.10+](https://www.python.org/downloads/)
 * [PyQt4](https://www.riverbankcomputing.com/software/pyqt/download)
 * [NumPy](http://www.scipy.org/scipylib/download.html)
 * [matplotlib](http://matplotlib.org/downloads.html)
