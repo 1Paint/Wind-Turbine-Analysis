@@ -16,6 +16,11 @@ Preview
 <img align="top" src="http://i.imgur.com/3wV8P4f.png">
 <img align="top" src="http://i.imgur.com/jfxwcIY.png">
 
+Requirements
+-------
+* [Python](https://www.python.org/)
+* [PyQt4](https://www.riverbankcomputing.com/software/pyqt/download)
+
 How To Use
 -------
 Please read the [manual](https://github.com/1Paint/Wind-Turbine-Analysis/blob/master/documentation/application-usage/app_manual.pdf).
