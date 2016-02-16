@@ -18,8 +18,10 @@ Preview
 
 Requirements
 -------
-* [Python](https://www.python.org/)
+* [Python 2](https://www.python.org/downloads/)
 * [PyQt4](https://www.riverbankcomputing.com/software/pyqt/download)
+* [NumPy](http://www.scipy.org/scipylib/download.html)
+* [matplotlib](http://matplotlib.org/downloads.html)
 
 How To Use
 -------
