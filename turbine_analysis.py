@@ -57,7 +57,6 @@ class Solutions(object):
             max_wind_index = np.where(c.v_wind==max(c.v_wind))[0][0]
             self.sf_yield[1:] = self.values_set[max_wind_index][7:14]
             self.max_twists[1:] = self.values_set[max_wind_index][14:21]
-
                 
             #######################
             # Days Until Failures #
