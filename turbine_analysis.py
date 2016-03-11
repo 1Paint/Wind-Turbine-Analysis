@@ -960,11 +960,14 @@ class AppWindow(QtGui.QMainWindow):
                                 " GUI turbine shaft geometries and safety"
                                 " factors.")
 
+    # Close the application when Ctrl+Q keyboard command is inputted or when
+    # 'Quit' is selected in the 'File' menu tab.
     def quit_file(self):
         self.close()
 
-    def closeEvent(self, ce):
-        self.quit_file()
+    # Close the application when the red 'X' of the window is pressed.
+    def closeEvent(self, event):
+        self.close()
       
 if __name__ == "__main__":
 
